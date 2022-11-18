@@ -1,0 +1,51 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.image {
+    float: right;
+    width: 750px;
+    height: 750px;
+}
+
+th.head {
+    text-align: left;
+    font-size: 70px;
+    width: 1500px;
+    font-weight: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+th.tiny {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+.four {
+    font-weight: 300;
+}
+
+.sections {
+    margin-top: 1in;
+    font-size: 25px;
+    font-weight: 300;
+
+}
+.smol {
+    margin-top: 4in;
+}
+
+.buttons {
+     border: 1px purple solid;
+     border-collapse:separate;
+     border-radius:6px;
+     background-color: purple;
+     color: aliceblue;
+}
+
+.button {
+    border: 1px purple solid;
+    border-collapse:separate;
+    border-radius:6px;
+}
